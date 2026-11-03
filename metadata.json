@@ -1,0 +1,6 @@
+{
+  "name": "DataExtract AI",
+  "description": "AI data extraction agent for website scraping, business card scanning, and bulk Word/PDF document analysis with Excel export and Google Sheets DBA synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
